@@ -1,7 +1,7 @@
 # Chipotle-Analysis-n-Expansion-Mapping
 **Introduction:**
 
-This project leverages data analysis and interactive mapping techniques to explore Chipotle restaurant locations, closures, and expansion opportunities.
+This project leverages data analysis and interactive mapping techniques to explore Chipotle restaurant locations, closures, and expansion opportunities by using data from Thinknum.com.
 
 **Project Overview:**
 
